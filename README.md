@@ -18,6 +18,8 @@ Each skill folder contains both the `.skill` file (for use with Claude) and the 
 | [bob-moesta-interview-reviewer](./bob-moesta-interview-reviewer/) | Bob Moesta-style demand-side interview analyst. Analyses discovery transcripts to map the Four Forces, the purchase decision timeline, and coaches on interviewing technique. |
 | [four-forces-challenge](./four-forces-challenge/) | Interactive Four Forces of Progress mapping and stress-testing. Maps Push, Pull, Anxiety, and Habit forces on your buyers, then challenges your assumptions — especially where founders are blind. |
 | [jobs-and-outcomes](./jobs-and-outcomes/) | JTBD coaching that takes founders from feature-speak to demand-side job statements and three-layer outcome maps (functional, emotional, social). |
+| [deal-qualification-coach](./deal-qualification-coach/) | Enterprise sales qualification coach for pre-PMF deep tech founders. Analyses sales call transcripts using BANT and MEDDIC to score deals, surface gaps, and coach on what to fix next. |
+| [deep-tech-launchpad](./deep-tech-launchpad/) | Rigorous early-stage B2B and deep tech GTM advisor. Separates knowns from assumptions, builds Steve Blank-style testable hypotheses (Unique Attribute / Differentiated Value / Customer Segment), designs research to close gaps, and shapes growth experiments. |
 
 ## Usage
 
